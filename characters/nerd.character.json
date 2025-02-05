@@ -4,8 +4,8 @@
     "modelProvider": "gaianet",
     "settings": {
         "secrets": {
-            "DISCORD_API_TOKEN": "YOR APP ID",
-            "DISCORD_APPLICATION_ID": "YOUR TOKEN"
+            "DISCORD_API_TOKEN": "YOR TOKEN",
+            "DISCORD_APPLICATION_ID": "YOUR APP ID"
         },
         "voice": {
             "model": "en_US-male-medium"
